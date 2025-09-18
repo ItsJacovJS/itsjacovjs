@@ -40,6 +40,7 @@ My user name is derived from my name then my favorite language javascript (JS)! 
 ## Projects 🎁 
 * [MatlabWorkbox](https://github.com/ItsJacovJS/MatlabWorkbox) 
 * [DesmosFunBox](https://github.com/ItsJacovJS/DesmosFunBox)
+* [GameBox](https://github.com/ItsJacovJS/GameBox)
 
 
 ## Contact Me 📞
